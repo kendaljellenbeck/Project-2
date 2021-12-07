@@ -1,4 +1,4 @@
-# Project-2
+# Project-2C
 This is the first draft of Project 2 
 You will need two files in order to adequately run the code. 
 1. The Jupyter Notebook
